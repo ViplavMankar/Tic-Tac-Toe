@@ -52,7 +52,7 @@ body {
   font-size: 8vmin;
 }
 .msg-container {
-  height: 240vmin;
+  height: 100vmin;
   display: flex;
   justify-content: center;
   align-items: center;
